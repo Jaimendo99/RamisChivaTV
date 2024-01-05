@@ -1,0 +1,4 @@
+repository "ramis_chiva_2d_tv1@jaimendo26@cloud"
+  path "/"
+    br "/main"
+    co "/main"
